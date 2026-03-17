@@ -1,6 +1,7 @@
 # OrangeHRM Manual Testing Project
 
 ## 📌 Project Overview
+
 This repository contains manual testing documentation created for the OrangeHRM demo application.
 
 The purpose of this project is to demonstrate practical QA skills including:
@@ -10,6 +11,7 @@ The purpose of this project is to demonstrate practical QA skills including:
 - Test planning
 
 ## 🔎 Application Under Test
+
 OrangeHRM Demo:
 https://opensource-demo.orangehrmlive.com/
 
@@ -18,21 +20,25 @@ Username: Admin
 Password: admin123  
 
 ## 📂 Project Structure
+
 - test-cases/ – Test case documentation
 - bug-reports/ – Reported issues
 - test-plan/ – Test plan document
 
 ## 🛠 Testing Scope (Initial Phase)
+
 - Login functionality
 - Session validation
 - Error handling
 - Basic UI validation
 
 ## Test Cases
+
 Test cases are available in the repository:
 test-cases/TEST_CASES.xlsx
 
 ## Bug Reports
+
 Bug reports are available in the repository:
 bug-reports/
 ---
