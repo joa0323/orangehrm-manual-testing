@@ -46,3 +46,4 @@ Bug reports are available in the repository:
 ---
 
 Created as part of QA portfolio preparation.
+This project demonstrates hands-on experience in test planning, test case creation, and defect reporting.
