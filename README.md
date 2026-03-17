@@ -28,6 +28,13 @@ Password: admin123
 - Error handling
 - Basic UI validation
 
+## Test Cases
+Test cases are available in the repository:
+test-cases/TEST_CASES.xlsx
+
+## Bug Reports
+Bug reports are available in the repository:
+bug-reports/
 ---
 
 Created as part of QA portfolio preparation.
