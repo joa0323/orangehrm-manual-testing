@@ -27,6 +27,9 @@ User is on the "Reset Password" page.
 ## Severity
 High
 
+## Priority
+High
+
 ## Frequency
 Intermittent (reproduced multiple times)
 
