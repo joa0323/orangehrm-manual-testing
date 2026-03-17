@@ -31,4 +31,4 @@ Low
 ## Notes
 Searching for "John" returns the correct result.  
 Searching for "John " (with a trailing space) also returns the correct result.  
-Searching for " John" returns "No Records Found".
+Searching for " John" (with a leading space) returns "No Records Found".
