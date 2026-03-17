@@ -1,5 +1,7 @@
 # Test Plan – OrangeHRM Manual Testing Project
 
+This test plan was created as part of a manual testing project for the OrangeHRM demo application.
+
 ## 1. Introduction
 This document describes the testing approach for the OrangeHRM demo application.
 
