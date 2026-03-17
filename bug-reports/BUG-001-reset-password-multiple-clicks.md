@@ -3,6 +3,10 @@
 ## Precondition
 User is on the "Reset Password" page.
 
+## Environment
+- Browser: Chrome
+- OS: Windows
+
 ## Steps to Reproduce
 1. Open the Login page.
 2. Click "Forgot your password?"
@@ -17,7 +21,7 @@ User is on the "Reset Password" page.
 ## Actual Result
 - The button remains clickable and allows multiple submissions.
 - The page enters a prolonged loading state.
-- In one case, the browser tab crashed (Chrome error: "Aw, Snap!" / STATUS_ACCESS_VIOLATION).
+- In one instance, the browser tab crashed (Chrome error: "Aw, Snap!" / STATUS_ACCESS_VIOLATION).
 - Behavior is inconsistent (sometimes confirmation message appears, sometimes long loading occurs).
 
 ## Severity
