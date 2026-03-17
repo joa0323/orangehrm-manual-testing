@@ -19,7 +19,7 @@ User is logged in as Admin.
 User should be able to log in using the new password.
 
 ## Actual Result
-- Login fails with "Invalid credentials" message.
+- Login fails with an "Invalid credentials" message.
 - Old password (admin123) still allows login.
 - UI displays a success message despite the password not being updated.
 
