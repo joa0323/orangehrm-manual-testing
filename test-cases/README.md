@@ -1,1 +1,9 @@
-This folder contains test case documentation for OrangeHRM.
+## Test Cases
+
+This folder contains manual test cases created for the OrangeHRM demo application.
+
+The test cases cover:
+- Login functionality
+- Employee management (PIM module)
+- Admin module
+- Validation and error handling scenarios
